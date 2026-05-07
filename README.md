@@ -10,3 +10,5 @@
 * ШІ використовувався, як інструмент зневадження.
 
 * Використана модель: GEMINI 3.1 PRO з персонально написаними та відкаліброваними інструкціями.
+
+<img width="8192" height="4682" alt="Animal Behavior Action Model-2026-05-07-105606" src="https://github.com/user-attachments/assets/444306ff-57a1-44e1-b051-1668feca0660" />
